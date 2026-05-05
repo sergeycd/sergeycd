@@ -13,13 +13,10 @@
 
 - 🔭 Сейчас я активно изучаю программирование на Python.
 - 👯 Убработал на проектах Бетховина, Яндекса, Сбера
-- 📫 Связаться со мной: [@cdpctr](ссылка) | [golovanov911@gmail.com](mailto:ваш_email@example.com)
+- 📫 Связаться со мной: [@cdpctr](http://t.me/cdpctr) | [golovanov911@gmail.com](golovanov911@gmail.com)
 
 <p align="center">
-  <a href="[ваш-linkedin-username]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[ваш-telegram-username]">
+  <a href="[[ваш-telegram-username](http://t.me/cdpctr)]">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
